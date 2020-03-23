@@ -1,0 +1,7 @@
+/*@media screen and (min-height: 700px) { 
+
+    a.navigation {color: black;} }*/
+
+.titres h1,.titres h2{margin: 0px 0px;
+color: white;}
+.titres h1 {font-size: 4em;}
